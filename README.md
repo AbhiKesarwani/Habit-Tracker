@@ -9,9 +9,12 @@ Visual Statistics: View your progress and updates on a dynamic graph.
 
 Customizable: Easily modify the habit name and graph colors in the code.
 
-#Libraries Used
+Libraries Used
+
 datetime for fetching the current date.
+
 requests for interacting seamlessly with the Pixela API.
 
-#Inspiration
+
+Inspiration
 You may have seen similar graphs on many coding platforms, which track contributions and motivate you to code daily. The visual feedback from these graphs can be incredibly motivating, helping you stay on track and achieve your goals.
