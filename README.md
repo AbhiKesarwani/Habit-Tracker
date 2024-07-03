@@ -3,18 +3,19 @@ I've developed a habit-tracker using the Pixela API. Inspired by James Clear's "
 
 Key Features
 
-Daily Habit Input: Log the minutes spent on your habit each day.
+1- Daily Habit Input: Log the minutes spent on your habit each day.
 
-Visual Statistics: View your progress and updates on a dynamic graph.
+2- Visual Statistics: View your progress and updates on a dynamic graph.
 
-Customizable: Easily modify the habit name and graph colors in the code.
+3- Customizable: Easily modify the habit name and graph colors in the code.
 
 Libraries Used
 
-datetime for fetching the current date.
+1- datetime for fetching the current date.
 
-requests for interacting seamlessly with the Pixela API.
+2- requests for interacting seamlessly with the Pixela API.
 
 
 Inspiration
+
 You may have seen similar graphs on many coding platforms, which track contributions and motivate you to code daily. The visual feedback from these graphs can be incredibly motivating, helping you stay on track and achieve your goals.
