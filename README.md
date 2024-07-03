@@ -22,15 +22,25 @@ You may have seen similar graphs on many coding platforms, which track contribut
 
 Setup and Usage
 
+
 1- Clone the repository.
+
 2- Navigate to the project directory.
+
 3- Install the required libraries.
+
 4- Configure your Pixela account:
+
       1- Sign up on Pixela.
+      
       2- Get your token and username.
+      
 5- Update the code with your Pixela token and username.
+
 6- Run the script to start tracking your habits.
 
 Customization
+
 1- To change the habit name or graph colors, modify the relevant parts of the code.
+
 2- For more details, refer to the Pixela API documentation.
